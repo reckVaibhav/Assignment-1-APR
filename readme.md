@@ -1,6 +1,7 @@
 # Assignment - 1 APR  
 **Topic:** Logistic Regression on Surgical Dataset  
-**Student:** Your Name  
+**Student:** Vaibhav Srivastava
+**Roll No:** 2511AI11
 **Course:** M.Tech AI  
 
 ---
